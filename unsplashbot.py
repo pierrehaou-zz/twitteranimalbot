@@ -4,6 +4,7 @@ import time
 
 #setting variable for sleep function
 downtime = 60 * 60 * 6
+print("running")
 
 while True:
 	# creates twitter api object
