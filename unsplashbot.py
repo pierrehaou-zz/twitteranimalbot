@@ -15,8 +15,6 @@ while True:
 	# Posts tweet to twitter with both the photo and photo source
 	api.update_with_media(
 	    "uphoto.jpg", status=f"This photo can be found at {source_text}")
-	
-	print("deployed to Heroku!")
 
 	# Sets function to run four times a day
 	time.sleep(downtime)
