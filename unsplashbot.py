@@ -3,7 +3,7 @@ import unsplashapirequest
 import time
 
 #setting variable for sleep function
-downtime = 60 
+downtime = 300
 
 while True:
 	# creates twitter api object
