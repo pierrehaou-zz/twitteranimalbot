@@ -9,7 +9,7 @@ pycodestyle==2.5.0
 pyfiglet==0.7
 PySocks==1.7.1
 python-unsplash==1.0.1
-requests==2.13.0
+requests==2.20.0
 requests-oauthlib==0.7.0
 six==1.10.0
 termcolor==1.1.0
