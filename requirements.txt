@@ -14,4 +14,4 @@ requests-oauthlib==0.7.0
 six==1.10.0
 termcolor==1.1.0
 tweepy==3.8.0
-urllib3==1.25.8
+urllib3==1.26.5
